@@ -2,6 +2,8 @@ body {
     background-color: #e5e5e5;
 }
 
+
+
 .meta-post {
     font-size: 12px;
     margin-bottom: 10px;
@@ -145,7 +147,21 @@ nav.menus ul > li a  {
 }
 
 .logo-dinas-kesehatan {
-    background: url("../image/logoDinasKesehatan.jpg");
-    width: auto;
-    height:  200px;
+    width: 183px;
+    height: 142px;
+    padding: 0px;
+    margin: 37px 0px 0px 57px;
+}
+
+.logo-dki {
+    width: 144px;
+    height: 142px;
+    padding: 0px;
+    margin: 37px 0px 0px 0px;
+}
+
+.title-header-dinas-kesehatan {
+    font-size: 12pt;
+    color: white;  
+
 }
